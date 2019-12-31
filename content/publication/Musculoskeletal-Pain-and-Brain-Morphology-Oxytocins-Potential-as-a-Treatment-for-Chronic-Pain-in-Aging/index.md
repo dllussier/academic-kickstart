@@ -1,4 +1,3 @@
----
 title: "Musculoskeletal Pain and Brain Morphology: Oxytocin’s Potential as a Treatment for Chronic Pain in Aging"
 authors:
 - admin
@@ -61,4 +60,3 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
