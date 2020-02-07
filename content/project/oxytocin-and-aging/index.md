@@ -11,7 +11,7 @@ date: "2015-08-25T00:00:00Z"
 external_link: ""
 
 image:
-  caption: WOMAC pain interference correlations with brain morphology in older adults
+  caption: Summary of overlapping regions with morphology associated with both pain and oxytocin
   focal_point: Smart
 
 links:
