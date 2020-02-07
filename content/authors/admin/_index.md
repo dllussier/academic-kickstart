@@ -60,9 +60,9 @@ social:
   link: http://orcid.org/0000-0001-6468-573X
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_Lussier_D_Spring2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
