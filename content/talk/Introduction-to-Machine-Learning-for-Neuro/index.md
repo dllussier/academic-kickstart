@@ -19,7 +19,7 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-11-14T13:00:00Z"
 date_end: "2019-11-14T13:00:00Z"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-11-14T13:00:00Z"
