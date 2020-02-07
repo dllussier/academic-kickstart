@@ -1,27 +1,28 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Introduction to Machine Learning for Neuroimaging: Algorithm Examples
+event: Montréal Artificial Intelligence and Neuroscience Machine Learning Workshop
+event_url: https://main-training.github.io/index.html
 
-location: Source Themes HQ
+
+location: MILA - Quebec AI Institute
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 650 St-Urbain, 2nd floor #200
+  city: Montreal
+  region: QC
+  postcode: 'H2S 3H1'
+  country: Canada
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-11-14T13:08:00Z"
+date_end: "2019-11-14T13:17:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-11-14T13:00:00Z"
 
 authors: []
 tags: []
@@ -34,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Workshop repository and binder
+  url: https://github.com/main-training/main-training-nilearn-ml
 url_code: ""
 url_pdf: ""
 url_slides: ""
