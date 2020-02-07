@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am is currently a postdoctoral research fellow with the SIMEXP laboratory at the Université de Montréal. My research interests lie in the development and utilization of machine/deep learning techniques towards the solving of problems in neuroimaging. I am particularly interested in variational autoencoders and the use of graph convolutional neural networks to this end. My research currently focuses on improving multisite harmonization using deep learning to improve cross-site comparisons of neuroimaging data for large-scale multisite studies.
+I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Université de Montréal focused on machine learning/deep learning and neuroimaging. My research interests lie in the development and utilization of machine/deep learning techniques towards the solving of problems in neuroimaging. I am particularly interested in variational autoencoders and the use of graph convolutional neural networks to this end. My research currently focuses on improving multisite harmonization using deep learning to improve cross-site comparisons of neuroimaging data for large-scale multisite studies.
 
 My dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the Social-Cognitive and Affective Development Lab and PAIN laboratory at the University of Florida. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
