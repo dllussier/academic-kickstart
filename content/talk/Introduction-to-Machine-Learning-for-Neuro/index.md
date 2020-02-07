@@ -9,7 +9,7 @@ address:
   street: 650 St-Urbain, 2nd floor #200
   city: Montreal
   region: QC
-  postcode: 'H2S 3H1'
+  postcode: 'H2S3H1'
   country: Canada
 
 #summary: An example talk using Academic's Markdown slides feature.
@@ -56,8 +56,8 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Enable math on this page?
 math: true
