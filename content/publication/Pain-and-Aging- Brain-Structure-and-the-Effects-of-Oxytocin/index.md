@@ -3,7 +3,7 @@ title: "*Pain and Aging: Brain Structure and the Effects of Oxytocin* (Doctoral 
 authors:
 - admin
 
-date: "2019-05-04T00:00:00Z"
+date: "2019-08-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
