@@ -30,14 +30,14 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 links:
 - icon: github
   icon_pack: fab
-#  name: Workshop repository and binder
+  name: Workshop repository and binder
   url: https://github.com/main-training/main-training-nilearn-ml
 url_code: ""
 url_pdf: ""
