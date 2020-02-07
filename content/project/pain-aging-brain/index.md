@@ -7,7 +7,7 @@ tags:
 - Pain
 - Older Adults
 - Regression
-date: "2016-04-27T00:00:00Z"
+date: "2017-08-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,11 +19,11 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Code Repository for Cerebellum Stats
+  name: Cerebellum Statistics Repository
   url: https://github.com/dllussier/CerebellumVolumePain
 - icon: github
   icon_pack: fab
-  name: Code Repository for Machine Learning
+  name: Machine Learning Repository
   url: https://github.com/dllussier/Pain_AgingBrain_MachineLearning
 url_code: ""
 url_pdf: ""
