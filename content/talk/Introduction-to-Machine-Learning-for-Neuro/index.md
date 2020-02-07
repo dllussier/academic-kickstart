@@ -1,15 +1,15 @@
 ---
-title: Introduction to Machine Learning for Neuroimaging Algorithm Examples
-event: Montréal Artificial Intelligence and Neuroscience Machine Learning Workshop
-event_url: https://main-training.github.io/index.html
+title: Introduction to Machine Learning for Neuroimaging
+event: Traintrack workshop for Brainhack Global 2019
+event_url: https://brainhackmtl.github.io/global2019/
 
 
-location: MILA - Quebec AI Institute
+location: Concordia University, John Molson School of Business (9th floor)
 address:
-  street: 650 St-Urbain, 2nd floor #200
+  street: 1600 Boulevard de Maisonneuve Ouest
   city: Montreal
   region: QC
-  postcode: 'H2S 3H1'
+  postcode: 'H3H 1J5'
   country: Canada
 
 #summary: An example talk using Academic's Markdown slides feature.
@@ -17,12 +17,12 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-14T13:00:00Z"
-#date_end: "2019-11-14T13:00:00Z"
-all_day: true
+date: "2019-12-04T13:00:00Z"
+date_end: "2019-12-06T13:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-11-14T13:00:00Z"
+publishDate: "2019-12-04T13:00:00Z"
 
 authors: []
 tags: []
@@ -38,7 +38,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Workshop repository and binder
-  url: https://github.com/main-training/main-training-nilearn-ml
+  url: https://github.com/BrainhackMTL/global2019-traintrack
 url_code: ""
 url_pdf: ""
 url_slides: ""
