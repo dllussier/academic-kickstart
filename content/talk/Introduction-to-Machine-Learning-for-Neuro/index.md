@@ -9,7 +9,7 @@ address:
   street: 650 St-Urbain, 2nd floor #200
   city: Montreal
   region: QC
-  postcode: 'H2S3H1'
+  postcode: 'H2S 3H1'
   country: Canada
 
 #summary: An example talk using Academic's Markdown slides feature.
