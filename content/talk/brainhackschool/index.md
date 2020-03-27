@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image: 
-  caption: 'Image credit: [**Unsplash**](https://school.brainhackmtl.org/)'
+  caption: 'Image credit: [**Brainhack School MTL**](https://school.brainhackmtl.org/)'
   focal_point: Smart
 
 links:
