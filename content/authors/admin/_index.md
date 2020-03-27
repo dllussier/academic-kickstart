@@ -14,11 +14,11 @@ role: Postdoctorate
 
 # Organizations/Affiliations
 organizations:
-- name: Université de Montréal
+- name: Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am is currently a postdoctoral research fellow with the SIMEXP laboratory at the Université de Montréal. 
+bio: I am is currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal. 
 
 interests:
 - Structural Neuroimaging
@@ -74,8 +74,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Université de Montréal focused on machine learning/deep learning and neuroimaging. My interests lie in the development and utilization of machine/deep learning techniques for neuroimaging. My reseach currently focuses on the development of variational autoencoders towards improving multisite harmonization using deep learning to improve cross-site comparisons of neuroimaging data for large-scale multisite studies in functional MRI data.
+I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. My interests lie in the development and utilization of machine/deep learning techniques for neuroimaging. My reseach currently focuses on the development of variational autoencoders towards improving multisite harmonization using deep learning to improve cross-site comparisons of neuroimaging data for large-scale multisite studies in functional MRI data.
 
 My dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the Social-Cognitive and Affective Development Lab and PAIN laboratory at the University of Florida. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
-Prior to my graduate training, I worked as a clinical research associate at Seattle Children’s Research Institute with the Psychology and Beahvioral Systems Lab where she focused on gender differences in autism spectrum disorders using functional neuroimaging. My career in neuroimaging began as an undergraduate student research assistant at the Integrated Brain Imaging Center at the University of Washington in 2012.
+Prior to my graduate training, I worked as a clinical research associate at Seattle Children’s Research Institute with the Psychology and Beahvioral Systems Lab where I focused on gender differences in autism spectrum disorders using functional neuroimaging. My career in neuroimaging began as an undergraduate student research assistant at the Integrated Brain Imaging Center at the University of Washington in 2012.
