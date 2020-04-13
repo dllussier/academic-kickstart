@@ -18,13 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am is currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal. 
+bio: I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal. 
 
 interests:
 - Structural Neuroimaging
 - Resting-State Functional Connectivity
 - Machine Learning
 - Artificial Neural Networks
+- Pain and empathy neural correlates
 
 education:
   courses:
