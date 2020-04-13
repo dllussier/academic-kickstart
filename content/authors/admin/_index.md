@@ -25,7 +25,7 @@ interests:
 - Resting-State Functional Connectivity
 - Machine Learning
 - Artificial Neural Networks
-- Pain and empathy neural correlates
+- Pain and empathy in ageing
 
 education:
   courses:
