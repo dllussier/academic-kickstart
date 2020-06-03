@@ -13,7 +13,6 @@ address:
   country: Canada
 
 summary: Project-based, transdisciplinary training in Neuroscience, Statistical Modelling and Computer Science
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed #ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar #tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,8 +36,8 @@ image:
 links:
 - icon: brain
   icon_pack: fab
-  name: Register now!
-  url: https://school.brainhackmtl.org/register/
+  name: This year's schedule
+  url: https://school.brainhackmtl.org/schedule/
 url_code: ""
 url_pdf: ""
 url_slides: ""
