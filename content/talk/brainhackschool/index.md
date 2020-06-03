@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image: 
-  caption: 'Image credit: [**Brainhack School MTL**](https://school.brainhackmtl.org/)'
+  caption: 'Image credit: [**Craddock et al (2016)**](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x)'
   focal_point: Smart
 
 links:
