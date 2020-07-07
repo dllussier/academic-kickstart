@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. My interests lie in the development and utilization of machine/deep learning techniques for neuroimaging. My reseach currently focuses on the development of variational autoencoders towards improving multisite harmonization using deep learning to improve cross-site comparisons of neuroimaging data for large-scale multisite studies in functional MRI data.
+I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. My research interests lie in the development and utilization of machine/deep learning techniques for resting-state functional and structural neuroimaging. 
 
 My dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the Social-Cognitive and Affective Development Lab and PAIN laboratory at the University of Florida. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
