@@ -5,7 +5,7 @@ authors:
 - Yenisel Cruz-Almeida
 - Natalie C Ebner
 date: "2019-12-13T00:00:00Z"
-doi: "10.3389/fnagi.2019.00338/full"
+doi: "10.3389/fnagi.2019.00338"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-12-13T00:00:00Z"
