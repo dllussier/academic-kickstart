@@ -25,8 +25,7 @@ interests:
 - Resting-State Functional Connectivity
 - Machine Learning
 - Artificial Neural Networks
-- Pain and empathy in ageing
-
+- Chronic pain and pain processing
 education:
   courses:
   - course: PhD in Behavioral and Cognitive Neuroscience, Developmental Psychology
