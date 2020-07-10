@@ -36,8 +36,8 @@ image:
 links:
 - icon: brain
   icon_pack: fab
-  name: This year's schedule
-  url: https://school.brainhackmtl.org/schedule/
+  name: This year's projects
+  url: https://school.brainhackmtl.org/project/
 url_code: ""
 url_pdf: ""
 url_slides: ""
