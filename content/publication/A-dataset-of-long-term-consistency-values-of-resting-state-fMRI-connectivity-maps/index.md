@@ -28,7 +28,7 @@ publication_types: ["2"]
 publication: "*Data in Brief.* 105699"
 publication_short: ""
 
-abstract: The impact of multisite acquisition on resting-state functional MRI (rsfMRI) connectivity has recently gained attention. We provide consistency values (Pearson's correlation) between rsfMRI connectivity maps of an adult volunteer (Csub) scanned 25 times over 3.5 years at 13 sites using the Canadian Dementia Imaging Protocol (CDIP). This dataset was generated as part of the following article: Multivariate consistency of resting-state fMRI connectivity maps acquired on a single individual over 2.5 years, 13 sites and 3 vendors. Acquired on three 3T scanner vendors (GE, Siemens and Philips), the Csub dataset is part of an ongoing effort to monitor the quality and comparability of MRI data collected across the Canadian Consortium on Neurodegeneration in Aging (CCNA) imaging network. 
+abstract: The impact of multisite acquisition on resting-state functional MRI (rsfMRI) connectivity has recently gained attention. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed #ex sollicitudin condimentum.
