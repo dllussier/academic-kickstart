@@ -21,11 +21,9 @@ organizations:
 bio: I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal. 
 
 interests:
-- Structural Neuroimaging
-- Resting-State Functional Connectivity
-- Machine Learning
-- Artificial Neural Networks
-- Chronic pain and pain processing
+- Structural and Resting-State Neuroimaging
+- Machine Learning/Deep Learning
+- Chronic Pain, Pain Processing, and Aging
 education:
   courses:
   - course: PhD in Behavioral and Cognitive Neuroscience, Developmental Psychology
@@ -74,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. My research interests lie in the development and utilization of machine/deep learning techniques for resting-state functional and structural neuroimaging. 
+I am a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. My current research interests lie in the development/utilization of machine/deep learning methods towards the investigation of neuromimaging biomarkers for a variety of conditions, especially those affecting aging (chronic pain, dementias). 
 
 My dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the Social-Cognitive and Affective Development Lab and PAIN laboratory at the University of Florida. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
