@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Désirée Lussier-Lévesque
+name: Désirée Lussier
 
 # Username (this should match the folder name)
 authors:
