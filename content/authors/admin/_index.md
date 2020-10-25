@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. My current research focused on methods development to aid the investigation of neuromimaging biomarkers in a variety of neurological disorders and neuropsychiatric conditions in multisite data. I am particularly interested in disorders associated with aging, such as chronic pain and dementias, and their effect on socioemotional processing. 
+I am a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. My current research focused on deep learning and neuroimaging methods development for biomarkers discovery in a variety of neurological and neuropsychiatric conditions in multisite data. I am particularly interested in disorders associated with aging, such as chronic pain and dementias, and their effect on socioemotional processing. 
 
 My dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the Social-Cognitive and Affective Development Lab and PAIN laboratory at the University of Florida. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
