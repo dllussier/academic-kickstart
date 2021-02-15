@@ -36,7 +36,7 @@ image:
 links:
 - icon: brain
   icon_pack: fab
-  name: This year's Brainhack Globl projects
+  name: This year's Brainhack Global projects
   url: https://brainhack.org/global2020/projects/
 url_code: ""
 url_pdf: ""
