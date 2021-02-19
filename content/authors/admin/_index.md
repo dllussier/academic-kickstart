@@ -21,12 +21,12 @@ organizations:
 bio: I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal. 
 
 interests:
-- Structural and Resting-State Neuroimaging
-- Machine Learning/Deep Learning
-- Chronic Pain, Pain Processing, and Aging
+- Structural and Resting-State Functional MRI
+- Machine Learning, Deep Learning, Autoencoders
+- Chronic Pain, Pain Processing, Dementia, and Aging
 education:
   courses:
-  - course: PhD in Behavioral and Cognitive Neuroscience, Developmental Psychology
+  - course: PhD in Behavioral and Cognitive Neuroscience, Developmental Psychology (dual specialization)
     institution: University of Florida
     year: 2019
   - course: MS in Psychology
