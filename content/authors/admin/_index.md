@@ -50,6 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dllussier
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/desiree-lussier/
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCvXgZu2chh5-0Clo3rcqMdg  
