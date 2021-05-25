@@ -26,7 +26,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=PDuCX4W8W4Y&list=PLdtyhNGG7oAmiUFMsNJOInqk5vPZXz-Ny&index=1&t=13s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
