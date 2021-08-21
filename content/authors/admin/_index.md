@@ -23,7 +23,7 @@ bio: I am currently a postdoctoral research fellow with the SIMEXP laboratory at
 interests:
 - Structural and Resting-State Functional MRI
 - Machine Learning, Deep Learning, Autoencoders
-- Chronic Pain, Pain Processing, Dementia, and Aging
+- Chronic Pain, Pain Processing, Dementia
 education:
   courses:
   - course: PhD in Behavioral and Cognitive Neuroscience, Developmental Psychology (dual specialization)
@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research fellow with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal. I am also the current Art Exhibit Manager Elect of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). My current research focused on deep learning and neuroimaging methods development for biomarkers discovery in a variety of neurological and neuropsychiatric conditions in multisite data. I am particularly interested in disorders associated with aging, such as chronic pain and dementias. 
+I am a postdoctoral research fellow with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) and a [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Scholarship Winter 2021 postdoctoral awardee at the Université de Montréal. I am also the current Secretary and former Art Exhibit Manager Elect of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). My current research focused on machine learning, deep learning and neuroimaging methods development for biomarkers discovery in a variety of neurological and neuropsychiatric conditions in multisite data. I am particularly interested in neurodegenerative disorders associated with aging, such as chronic pain and dementias. 
 
 My dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the [Social-Cognitive and Affective Development Lab](https://ebnerlab.psych.ufl.edu/) and [PAIN laboratory](https://cruz-almeida-lab.dental.ufl.edu/) at the University of Florida. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
