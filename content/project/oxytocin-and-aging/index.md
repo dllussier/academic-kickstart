@@ -24,7 +24,7 @@ links:
   name: Freesufer SLURM Pipeline
   url: https://github.com/EbnerLab/Freesurfer
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ufdcimages.uflib.ufl.edu/UF/E0/05/22/26/00001/LUSSIERLEVESQUE_D.pdf"
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=PDuCX4W8W4Y&list=PLdtyhNGG7oAmiUFMsNJOInqk5vPZXz-Ny&index=1&t=13s"
 
