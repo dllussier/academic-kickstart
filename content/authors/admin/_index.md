@@ -56,6 +56,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCvXgZu2chh5-0Clo3rcqMdg  
+- icon: brain
+  icon_pack: fab
+  link: https://loop.frontiersin.org/people/1488211/overview
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Desiree_Lussier
