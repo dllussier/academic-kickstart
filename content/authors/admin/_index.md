@@ -56,7 +56,7 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCvXgZu2chh5-0Clo3rcqMdg  
-- icon: brain
+- icon: circle
   icon_pack: fab
   link: https://loop.frontiersin.org/people/1488211/overview
 - icon: researchgate
