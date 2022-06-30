@@ -22,8 +22,8 @@ bio: I am currently a postdoctoral research fellow with the SIMEXP laboratory at
 
 interests:
 - Structural and Resting-State Functional MRI
+- Brain parcellation
 - Machine Learning, Deep Learning, Autoencoders
-- Chronic Pain, Pain Processing, Dementia
 
 education:
   courses:
