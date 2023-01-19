@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Désirée Lussier
+name: Désirée Lussier-Lévesque
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral research fellow
+role: Data Science Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,7 +22,7 @@ bio: I am currently a postdoctoral research fellow with the SIMEXP laboratory at
 
 interests:
 - Structural and Resting-State Functional MRI
-- Brain parcellation
+- Natural Language Processing
 - Machine Learning, Deep Learning, Autoencoders
 
 education:
