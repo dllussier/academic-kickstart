@@ -87,7 +87,7 @@ user_groups:
 - Visitors
 ---
 
-Currently I am a Data Science Developer, focusing on autogenerative artificial intelligence (AI). I am also a Brazilian Jiu Jitsu coach and competitor with [Renzo Gracie Montréal](https://instagram.com/rgwestisland) and Judoka training under Sensei Hiroshi Nakamura at [Shidokan](https://instagram.com/shidokan_dojo). 
+Currently I am a Data Science Developer, focusing on autogenerative artificial intelligence (AI). I am also a Brazilian Jiu Jitsu coach and competitor training under [Renzo Gracie Montréal](https://instagram.com/rgwestisland) and Judoka training under [Shidokan](https://instagram.com/shidokan_dojo). 
 
 I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, where my research focused on machine learning, deep learning and neuroimaging methods development for biomarkers discovery in a variety of neurological and neuropsychiatric conditions in multisite data, and was a [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Scholarship Winter 2021 postdoctoral awardee. I am also the Immediate Past Secretary and former Art Exhibit Manager Elect of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
 
