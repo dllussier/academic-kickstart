@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Science Developer
+role: Data Science Developer / Brazilian Jiu Jitsu Coach
 
 # Organizations/Affiliations
 organizations:
@@ -61,16 +61,16 @@ social:
   link: https://www.linkedin.com/in/desiree-lussier/
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCvXgZu2chh5-0Clo3rcqMdg  
-- icon: circle
-  icon_pack: fab
-  link: https://loop.frontiersin.org/people/1488211/overview
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Desiree_Lussier
-- icon: orchid
-  icon_pack: ai
-  link: http://orcid.org/0000-0001-6468-573X
+  link: https://www.youtube.com/@thepurplebeltdiaries  
+# - icon: circle
+ # icon_pack: fab
+ # link: https://loop.frontiersin.org/people/1488211/overview
+# - icon: researchgate
+ # icon_pack: ai
+ # link: https://www.researchgate.net/profile/Desiree_Lussier
+# - icon: orchid
+#  icon_pack: ai
+#  link: http://orcid.org/0000-0001-6468-573X
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -87,11 +87,11 @@ user_groups:
 - Visitors
 ---
 
-Currently I am a Data Science Developer, focusing on autogenerative artificial intelligence (AI). I am also a Brazilian Jiu Jitsu coach and competitor with [Renzo Gracie Downtown Montréal OAMA](https://bjjmontreal.com), BJJ purple belt under [Renzo Gracie OAMA Montréal](https://instagram.com/@RGWESTISLAND), and Judoka training under [Shidokan](https://instagram.com/shidokan_dojo). For questions or coaching, I can be reached on Instagram at [@des_lussier](https://www.instagram.com/des_lussier) or via email at desiree.lussier.levesque@gmail.com For more information on group classes, please feel free to contact me or visit the website of our BJJ school located in downtown Montreal at [bjjmontreal.com](https://bjjmontreal.com)
+Currently I am a Data Science Developer, focusing on autogenerative artificial intelligence (AI). I am also a Brazilian Jiu Jitsu coach and competitor with [Renzo Gracie Downtown Montréal OAMA](https://bjjmontreal.com), BJJ purple belt under [Renzo Gracie OAMA Montréal](https://instagram.com/@RGWESTISLAND), and Judoka training under [Shidokan](https://instagram.com/shidokan_dojo). For questions or coaching, I can be reached on Instagram at [@des_lussier](https://www.instagram.com/des_lussier) or via email at desiree.lussier.levesque@gmail.com For more information on group classes, please feel free to contact me or visit the website of our BJJ school located in downtown Montreal at [bjjmontreal.com](https://bjjmontreal.com). Check out my main Youtube channel [The Purple Belt Diaries](https://www.youtube.com/@thepurplebeltdiaries).
 
-I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, where my research focused on machine learning, deep learning and neuroimaging methods development for biomarkers discovery in a variety of neurological and neuropsychiatric conditions in multisite data, and was a [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Scholarship Winter 2021 postdoctoral awardee. I am also the Immediate Past Secretary and former Art Exhibit Manager Elect of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
+I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, focusing on machine learning, deep learning, and neuroimaging methods development for biomarkers discovery in multisite data. While there I was awarded the [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Postdoctoral Scholarship Winter 2021. I am also the former Secretary and Art Exhibit Manager of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
 
-MY doctoral dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the [Social-Cognitive and Affective Development Lab](https://ebnerlab.psych.ufl.edu/) and [PAIN laboratory](https://cruz-almeida-lab.dental.ufl.edu/) at the University of Florida, where I dual specialized in Developmental Psychology and Behavioral and Cognitive Neuroscience. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
+My doctoral dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the [Social-Cognitive and Affective Development Lab](https://ebnerlab.psych.ufl.edu/) and [PAIN laboratory](https://cruz-almeida-lab.dental.ufl.edu/) at the University of Florida. There I earned my dual specialized PhD in Developmental Psychology and Behavioral and Cognitive Neuroscience. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
-Prior to my graduate training, I worked as a clinical research associate at Seattle Children’s Research Institute with the [Psychology and Beahvioral Systems Lab](http://depts.washington.edu/pbslab/wordpress/) where I focused on gender differences in autism spectrum disorders using functional neuroimaging. My career in neuroscience and psychology began as an undergraduate student research assistant at the [Integrated Brain Imaging Center](http://ibic.washington.edu/#&panel1-1) at the University of Washington in 2012, where I worked with children with learning disabilities in a research capacity.
+Prior to my graduate training, I worked as a clinical research associate at Seattle Children’s Research Institute with the [Psychology and Beahvioral Systems Lab](http://depts.washington.edu/pbslab/wordpress/) researching gender differences in autism spectrum disorders using functional neuroimaging. My career in neuroscience and psychology began as an undergraduate research assistant at the [Integrated Brain Imaging Center](http://ibic.washington.edu/#&panel1-1) at the University of Washington in 2012, working with children with learning disabilities in a research capacity.
 
