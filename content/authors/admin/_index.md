@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a postdoctoral research fellow with the SIMEXP laboratory at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Université de Montréal. 
+bio: I am currently a Data Science Developer and Medical Writer with 11+ years research experience and 6+ years exerpience in AI. 
 
 interests:
 - Developmental Psychology and Neuroscience
@@ -86,7 +86,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Data Science Developer and Medical Writer. My current areas of research and primary interest are medical imaging, autogenerative artificial intelligence (AI) and machine learning framework development. I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, focusing on machine learning, deep learning, and neuroimaging methods development for biomarkers discovery in multisite data. While there I was awarded the [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Postdoctoral Scholarship Winter 2021. I am also the former Secretary and Art Exhibit Manager of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
+I am a Data Science Developer and Medical Writer. My current areas of research and primary interest are medical imaging, autogenerative artificial intelligence (AI) and machine learning framework development. 
+
+I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, focusing on machine learning, deep learning, and neuroimaging methods development for biomarkers discovery in multisite data. While there I was awarded the [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Postdoctoral Scholarship Winter 2021. I am also the former Secretary and Art Exhibit Manager of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
 
 My doctoral dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the [Social-Cognitive and Affective Development Lab](https://ebnerlab.psych.ufl.edu/) and [PAIN laboratory](https://cruz-almeida-lab.dental.ufl.edu/) at the University of Florida. There I earned my dual specialized PhD in Developmental Psychology and Behavioral and Cognitive Neuroscience. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. 
 
