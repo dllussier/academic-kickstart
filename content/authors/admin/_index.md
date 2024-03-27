@@ -44,7 +44,7 @@ social:
 
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/des_lussier
+  link: https://instagram.com/thepurplebeltdiaries
 - icon: envelope
   icon_pack: fas
   link: 'mailto:desiree.lussier.levesque@gmail.com'
