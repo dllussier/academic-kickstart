@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a Data Science Developer and Medical Writer with 11+ years research experience and 6+ years exerpience in AI. 
+bio: I am currently a Data Scientist and Artificial Intelligence Developer with 11+ years research experience and 6+ years exerpience in AI. 
 
 interests:
 - Developmental Psychology and Neuroscience
 - Natural Language Processing
+- Medical Imaging 
 - Machine Learning, Deep Learning, Autoencoders
+- Brazilian Jiu Jitsu, Judo 
 
 education:
   courses:
