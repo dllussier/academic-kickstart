@@ -88,7 +88,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Data Scientist and Artificial Intelligence Developer. My current areas of research and interest are autogenerative (AI) and machine learning (ML) framework development for business intelligence, for which I have won a Bell Excellence and Innovation Award. I also have extensive experience and interest in the application and development of AI and ML methods to medical imaging.
+I am a Data Scientist and Artificial Intelligence Developer. My current areas of research and interest are autogenerative (AI) and machine learning (ML) framework development for business intelligence, for which I have won a Bell Excellence and Innovation Award. I also have extensive experience and interest in the application and development of AI and ML methods for medical imaging.
 
 I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, focusing on machine learning, deep learning, and neuroimaging methods development for biomarkers discovery in multisite data. This resulted in the development and release of the Python package [Dynamic Parcel Aggregation with Clustering (DYPAC)](https://pypi.org/project/Dypac) for use with FMRI data. While there I was awarded the [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Postdoctoral Scholarship Winter 2021. I am also the former Secretary and Art Exhibit Manager of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
 
