@@ -1,6 +1,6 @@
 ---
-title: Why people quit BJJ and tips to not
-summary: Investigating then neurocorrelates of pain in the aging brain
+title: Why people quit BJJ and what we can do to not | Do blue belts really quit the MOST?
+summary: There is a stereotype that BJJ blue belts quit. But is it true that they have a higher attrition rate than other belt levels in jiu jitsu? Why do people quit training and what can we do to not be one of those statistics? 
 tags:
 - BJJ
 - lifestyle
@@ -10,8 +10,8 @@ date: "2024-03-15T00:00:00Z"
 external_link: "https://youtu.be/qSULAQ-euhQ?si=t-VDCOXJUPkZWmk2"
 
 image:
-  caption: 
-  focal_point: 
+  caption: attrition_cover.jpg
+  focal_point: center
 
 links:
 - icon: 
