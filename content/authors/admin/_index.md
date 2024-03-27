@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Science Developer / Medical Writer
+role: Data Scientist / Artificial Intelligence Developer
 
 # Organizations/Affiliations
 organizations:
