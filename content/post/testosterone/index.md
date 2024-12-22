@@ -5,7 +5,7 @@ tags:
 - BJJ
 - Judo
 - testosterone
-date: "2024-03-15T00:00:00Z"
+date: "2024-08-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://youtu.be/qSULAQ-euhQ?si=t-VDCOXJUPkZWmk2"
