@@ -11,7 +11,7 @@ external_link: "https://youtu.be/teyrxD6-BoU?si=bqQjDwNH088Lvl26"
 
 image:
   caption: 
-  focal_point: center
+  focal_point: 
 
 links:
 - icon: 
