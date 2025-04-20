@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a Data Scientist and Artificial Intelligence Developer with 11+ years research experience and 6+ years exerpience in AI. 
+bio: I am an artist and fitness coach with experience as a Data Scientist and Artificial Intelligence Developer with 11+ years research experience and 6+ years exerpience in AI. 
 
 interests:
 - Developmental Psychology and Neuroscience
@@ -47,7 +47,7 @@ social:
   link: https://instagram.com/thepurplebeltdiaries
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:desiree.lussier.levesque@gmail.com'
+  link: 'mailto:deslussier@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/desiree_lussier
@@ -62,7 +62,16 @@ social:
   link: https://www.linkedin.com/in/desiree-lussier/
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/@thepurplebeltdiaries  
+  link: https://www.youtube.com/@thepurplebeltdiaries
+- icon: etsy
+  icon_pack: fab
+  link: https://www.etsy.com/shop/kawaiimagica
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/kawaiimagica
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/@drdesireelussier7334
 # - icon: circle
  # icon_pack: fab
  # link: https://loop.frontiersin.org/people/1488211/overview
@@ -72,9 +81,7 @@ social:
 # - icon: orchid
 #  icon_pack: ai
 #  link: http://orcid.org/0000-0001-6468-573X
-# - icon: etsy
-#  icon_pack: fab
-#  link: https://www.etsy.com/shop/kawaiimagica
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
