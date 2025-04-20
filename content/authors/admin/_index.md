@@ -91,7 +91,7 @@ user_groups:
 - Visitors
 ---
 
-I am an artist and fitness coach, as well as Brazilian Jiu Jitsu purple belt coach and competitor, and Judoka having received my 1st kyu (brown belt) from [Shidokan](https://instagram.com/shidokan_dojo). I am the 2024 IBJJF Pan Am masters 3 female purple light-feather champion and 2022 Judo Canada newaza silver medalist (-63kg). For questions or coaching, I can be reached on Instagram at [thepurplebeltdiaries](https://www.instagram.com/thepurplebeltdiaries) or via email at desiree.lussier.levesque@gmail.com  You can also check out my main Youtube channel [The Purple Belt Diaries](https://www.youtube.com/@thepurplebeltdiaries) where I discuss topics related to grappling.
+I am an artist and fitness coach, Brazilian Jiu Jitsu purple belt competitor, and Judoka having received my 1st kyu (brown belt) from [Shidokan](https://instagram.com/shidokan_dojo). I am the 2024 IBJJF Pan Am masters 3 female purple light-feather champion and 2022 Judo Canada newaza silver medalist (-63kg). For questions or coaching, you can reach me on Instagram at [thepurplebeltdiaries](https://www.instagram.com/thepurplebeltdiaries) or via email at deslussier@gmail.com  You can also check out my main Youtube channel [The Purple Belt Diaries](https://www.youtube.com/@thepurplebeltdiaries) where I discuss topics related to grappling.
 
 My artwork, candles, and other designs can be found and putchased from my [Kawaii Magica Etsy shop](https://www.etsy.com/shop/kawaiimagica) or my [Kawaii Magica Instagram](https://www.instagram.com/kawaiimagica). There you will find goth, pastel goth, and other cute candles, artwork, decor and accessories, all handmade by me. I also take commissions and spacial orders.
 
