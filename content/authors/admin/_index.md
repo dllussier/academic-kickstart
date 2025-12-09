@@ -48,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:deslussier@gmail.com'
+- icon: dumbbell
+  icon_pack: fas
+  link: https://dllussier.github.io
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/desiree_lussier
@@ -63,12 +66,6 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@thepurplebeltdiaries
-- icon: etsy
-  icon_pack: fab
-  link: https://www.etsy.com/shop/kawaiimagica
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/kawaiimagica
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@drdesireelussier7334
@@ -102,7 +99,8 @@ I am a Data Scientist and Artificial Intelligence Developer with experience in a
 
 My doctoral dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the [Social-Cognitive and Affective Development Lab](https://ebnerlab.psych.ufl.edu/) and [PAIN laboratory](https://cruz-almeida-lab.dental.ufl.edu/) at the University of Florida. There I earned my dual specialized PhD in Developmental Psychology and Behavioral and Cognitive Neuroscience. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. Prior to my graduate training, I worked as a clinical research associate at Seattle Children’s Research Institute with the [Psychology and Beahvioral Systems Lab](http://depts.washington.edu/pbslab/wordpress/) and the [Integrated Brain Imaging Center](http://ibic.washington.edu/#&panel1-1) at the University of Washington Medical Center, working with children with developmental disorders and learning disabilities in a research capacity.
 
-I am also an artist and fitness coach, Brazilian Jiu Jitsu purple belt competitor, and Judoka having received my 1st kyu (brown belt) from [Shidokan](https://instagram.com/shidokan_dojo). I am the 2024 IBJJF Pan Am masters 3 female purple light-feather champion and 2022 Judo Canada newaza silver medalist (-63kg). For questions or coaching, you can reach me on Instagram at [thepurplebeltdiaries](https://www.instagram.com/thepurplebeltdiaries) or via email at deslussier@gmail.com  You can also check out my main Youtube channel [The Purple Belt Diaries](https://www.youtube.com/@thepurplebeltdiaries) where I discuss topics related to grappling.
+I am also a fitness coach, Brazilian Jiu Jitsu purple belt competitor, and Judoka having received my 1st kyu (brown belt) from [Shidokan](https://instagram.com/shidokan_dojo). I am the 2024 IBJJF Pan Am masters 3 female purple light-feather champion and 2022 Judo Canada newaza silver medalist (-63kg). You can also check out my main Youtube channel [The Purple Belt Diaries](https://www.youtube.com/@thepurplebeltdiaries) where I discuss topics related to grappling.
 
-My artwork, candles, and other designs can be found and putchased from my [Kawaii Magica Etsy shop](https://www.etsy.com/shop/kawaiimagica) or my [Kawaii Magica Instagram](https://www.instagram.com/kawaiimagica). There you will find goth, pastel goth, and other cute candles, artwork, decor and accessories, all handmade by me. I also take commissions and spacial orders.
+Interested in hiring me as your personal trainer or coach? You can read more at my [Fitness Website](https://dllussier.github.io). For questions or coaching, you can also reach me on Instagram at [thepurplebeltdiaries](https://www.instagram.com/thepurplebeltdiaries) or via email at deslussier@gmail.com
+
 
