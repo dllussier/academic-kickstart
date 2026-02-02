@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist / Artificial Intelligence Developer
+role: Fitness Coach | PhD in Neuroscience and Developmental Psychology | US Army Veteran 
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Adatpive Fitness Lab
+  url: "http://adaptivefitnesslab.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Data Scientist and Artificial Intelligence Developer with 11+ years research experience and 6+ years exerpience in AI. 
+bio: Fitness Coach | PhD in Neuroscience and Developmental Psychology | US Army Veteran | Helping clients to build strength, mobility and better quality of life
 
 interests:
 - Developmental Psychology and Neuroscience
-- Natural Language Processing
-- Medical Imaging 
-- Machine Learning, Deep Learning, Autoencoders
-- Brazilian Jiu Jitsu, Judo 
+- Certified Personal Trainer
+- Corrective Exercise
+- Chronic Pain
+- Online Fitness Trainer
 
 education:
   courses:
@@ -50,7 +50,7 @@ social:
   link: 'mailto:deslussier@gmail.com'
 - icon: dumbbell
   icon_pack: fas
-  link: https://dllussier.github.io
+  link: http://adaptivefitnesslab.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/desiree_lussier
@@ -94,12 +94,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a certified personal trainer, yoga instructor, and US Army veteran with a PhD in Developmental Psychology and Neuroscience. My background as a chronic pain researcher and martial arts coach provides a unique perspective for my fitness coaching practice, where the focus is on helping clients build the strength and mobility needed to improve their overall quality of life. By applying a deep understanding of human movement and the mind-body connection, I create individualized programs that respect each client’s specific strengths and limitations. This includes working with seniors to improve strength and balance, as well as teaching Yoga and Tai Chi classes focused on low-impact movement and pain management.I am dedicated to helping clients navigate physical challenges compassionately and succeed in their fitness journeys. Whether the goal is weight training in a gym, a home yoga routine, or specialized balance work, I design programs that fit into a client's specific lifestyle and schedule.
 
-I am a Data Scientist and Artificial Intelligence Developer with experience in autogenerative (AI) and machine learning (ML) framework development for business intelligence, for which I have won a Bell Excellence and Innovation Award. I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, focusing on machine learning, deep learning, and neuroimaging methods development for biomarkers discovery in multisite data. This resulted in the development and release of the Python package [Dynamic Parcel Aggregation with Clustering (DYPAC)](https://pypi.org/project/Dypac) for use with FMRI data. While there I was awarded the [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Postdoctoral Scholarship Winter 2021. I am also the former Secretary and Art Exhibit Manager of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
+Previously, I was a Data Scientist and Artificial Intelligence Developer, most recently associated with Bell Canada where I won a Bell Excellence and Innovation Award for my work in autogenerative AI in natural language processing (NLP) in business intelligence. I completed my postdoctoral research training in NeuroAI with the [SIMEXP laboratory](https://simexp.github.io/lab-website/) at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM) at the Université de Montréal, focusing on machine learning, deep learning, and neuroimaging methods development for biomarkers discovery in multisite data. This resulted in the development and release of the Python package [Dynamic Parcel Aggregation with Clustering (DYPAC)](https://pypi.org/project/Dypac) for use with FMRI data. While there I was awarded the [Union Neurosciences et Intelligence Artificielle - Québec (UNIQUE)](https://www.unique.quebec/) NeuroAI Excellence Postdoctoral Scholarship Winter 2021. I am also the former Secretary and Art Exhibit Manager of the Organization for Human Brain Mapping [BrainArt Special Interest Group](https://ohbm-brainart.github.io/). 
 
 My doctoral dissertation work investigated the relationship of brain morphology and oxytocin with chronic pain and pain sensitivity in older adults with the [Social-Cognitive and Affective Development Lab](https://ebnerlab.psych.ufl.edu/) and [PAIN laboratory](https://cruz-almeida-lab.dental.ufl.edu/) at the University of Florida. There I earned my dual specialized PhD in Developmental Psychology and Behavioral and Cognitive Neuroscience. My master’s thesis investigated age-differential effects of intranasal oxytocin on “social brain” resting state functional connectivity in women. Prior to my graduate training, I worked as a clinical research associate at Seattle Children’s Research Institute with the [Psychology and Beahvioral Systems Lab](http://depts.washington.edu/pbslab/wordpress/) and the [Integrated Brain Imaging Center](http://ibic.washington.edu/#&panel1-1) at the University of Washington Medical Center, working with children with developmental disorders and learning disabilities in a research capacity.
 
-I am also a fitness coach, Brazilian Jiu Jitsu purple belt competitor, and Judoka having received my 1st kyu (brown belt) from [Shidokan](https://instagram.com/shidokan_dojo). I am the 2024 IBJJF Pan Am masters 3 female purple light-feather champion and 2022 Judo Canada newaza silver medalist (-63kg). You can also check out my main Youtube channel [The Purple Belt Diaries](https://www.youtube.com/@thepurplebeltdiaries) where I discuss topics related to grappling.
+I am a Brazilian Jiu Jitsu purple belt and Judoka having received my 1st kyu (brown belt) from [Shidokan](https://instagram.com/shidokan_dojo). I am the 2024 Iternational Brazilain Jiu Jitsu Federation Pan Am masters 3 female purple light-feather champion and 2022 Judo Canada newaza silver medalist (-63kg). You can also check out my main Youtube channel [The Purple Belt Diaries](https://www.youtube.com/@thepurplebeltdiaries) where I discuss topics related to grappling.
 
 Interested in hiring me as your personal trainer or coach? You can read more at my [Fitness Website](https://dllussier.github.io). For questions or coaching, you can also reach me on Instagram at [thepurplebeltdiaries](https://www.instagram.com/thepurplebeltdiaries) or via email at deslussier@gmail.com
 
